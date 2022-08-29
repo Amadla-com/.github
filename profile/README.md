@@ -1,3 +1,9 @@
+<img src="./assets/logo-big-circle.svg" alt="Amadla logo" style="width: 100%;" align="right">
+
+# Amadla
+
+A tool for easier cloud setup.
+
 <!--
 
 **Here are some ideas to get you started:**
