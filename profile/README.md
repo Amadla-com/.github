@@ -1,4 +1,6 @@
-<img src="./assets/logo-big-circle.svg" alt="Amadla logo" style="width: 400px; display: block; margin-left: auto; margin-right: auto; width: 50%;" align="center">
+<p align="center">
+<img src="./assets/logo-big-circle.svg" alt="Amadla logo" width="400">
+</p>
 
 # Amadla
 
