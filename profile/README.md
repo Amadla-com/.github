@@ -4,7 +4,7 @@
 
 # Amadla
 
-A tool for easier cloud setup.
+Simplifying Infrastructure Management
 
 <!--
 
