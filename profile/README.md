@@ -2,10 +2,6 @@
 <img src="./assets/logo-big-circle.svg" alt="Amadla logo" width="400">
 </p>
 
-# Amadla
-
-Simplifying Infrastructure Management
-
 <!--
 
 **Here are some ideas to get you started:**
