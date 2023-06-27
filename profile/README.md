@@ -3,12 +3,20 @@
 </p>
 
 <h2>About</h2>
-<p>
 The previous decade has seen a surge in tools designed to simplify the provisioning of cloud infrastructures, on-premise and dedicated servers. While this development is positive, assembling and configuring these tools remains challenging. This task is time-intensive, requiring substantial expertise in cloud systems, Infrastructure as Code (IaC), Linux, cybersecurity, etc.
 
 For many who only require an environment for running a few server-side applications, a VPN, blogs, email servers, and file managers, adhering to best practices and ensuring security can be daunting and time-consuming.
 
 Amadla simplifies this process by automating the establishment of a basic environment suitable for personal use to all-sized businesses. It also helps by abstracting many aspects of setting up applications, servers and cloud infrastructures.
+
+<h2>Projects</h2>
+
+<p>
+ <a href="https://github.com/AmadlaOrg/amadla-cli"><img alt="Amadla CLI logo" src="./assets/amadla-cli-logo.svg" width="100" style="vertical-align: middle; float: left;"> amadla-cli</a> = <strong>Simple terminal application to use Amadla</strong>
+</p>
+
+<p>
+ <a href="https://github.com/AmadlaOrg/Amadla-Framework"><img alt="Amadla Framework logo" src="./assets/amadla-framework-logo.svg" width="100" style="vertical-align: middle; float: left;"> Amadla-Framework</a> = <strong>The Amadla-Framework is a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template" title="Creating a repository from a template">template</a> you can use to start your project</strong>
 </p>
 
 <!--
