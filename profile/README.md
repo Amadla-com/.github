@@ -9,7 +9,7 @@ For many who only require an environment for running a few server-side applicati
 
 Amadla simplifies this process by automating the establishment of a basic environment suitable for personal use to all-sized businesses. It also helps by abstracting many aspects of setting up applications, servers and cloud infrastructures.
 
-<h2>Projects</h2>
+<h2>Main Projects</h2>
 
 <p>
  <a href="https://github.com/AmadlaOrg/amadla-cli"><img alt="Amadla CLI logo" src="./assets/amadla-cli-logo.svg" width="100" style="vertical-align: middle; float: left;"> amadla-cli</a> = <strong>Simple terminal application to use Amadla</strong>
