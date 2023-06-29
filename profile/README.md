@@ -12,11 +12,11 @@ Amadla simplifies this process by automating the establishment of a basic enviro
 <h2>Main Projects</h2>
 
 <p>
- <a href="https://github.com/AmadlaOrg/amadla-cli"><img alt="Amadla CLI logo" src="./assets/amadla-cli-logo.svg" width="100" style="vertical-align: middle; float: left;"> amadla-cli</a> = <strong>Simple terminal application to use Amadla</strong>
+ <a href="https://github.com/AmadlaOrg/amadla-cli"><img alt="Amadla CLI logo" src="./assets/amadla-cli-logo.svg" width="150" style="vertical-align: middle; float: left;"> amadla-cli</a> = <strong>Simple terminal application to use Amadla</strong>
 </p>
 
 <p>
- <a href="https://github.com/AmadlaOrg/amadla-template"><img alt="Amadla Template logo" src="./assets/amadla-template-logo.svg" width="100" style="vertical-align: middle; float: left;"> amadla-template</a> = <strong>The Amadla template is a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template" title="Creating a repository from a template">template</a> you can use to start with Amadla</strong>
+ <a href="https://github.com/AmadlaOrg/amadla-template"><img alt="Amadla Template logo" src="./assets/amadla-template-logo.svg" width="150" style="vertical-align: middle; float: left;"> amadla-template</a> = <strong>The Amadla template is a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template" title="Creating a repository from a template">template</a> you can use to start with Amadla</strong>
 </p>
 
 <!--
