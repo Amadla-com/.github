@@ -16,7 +16,7 @@ Amadla simplifies this process by automating the establishment of a basic enviro
 </p>
 
 <p>
- <a href="https://github.com/AmadlaOrg/Amadla-Framework"><img alt="Amadla Framework logo" src="./assets/amadla-framework-logo.svg" width="100" style="vertical-align: middle; float: left;"> Amadla-Framework</a> = <strong>The Amadla-Framework is a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template" title="Creating a repository from a template">template</a> you can use to start your project</strong>
+ <a href="https://github.com/AmadlaOrg/amadla-template"><img alt="Amadla Template logo" src="./assets/amadla-template-logo.svg" width="100" style="vertical-align: middle; float: left;"> amadla-template</a> = <strong>The Amadla template is a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template" title="Creating a repository from a template">template</a> you can use to start with Amadla</strong>
 </p>
 
 <!--
