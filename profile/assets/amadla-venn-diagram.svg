@@ -1,4 +1,5 @@
 <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+  <rect width="100%" height="100%" fill="white" />
   <!-- Circle for Configuration Management -->
   <circle cx="200" cy="200" r="100" fill="rgba(255, 99, 71, 0.5)" />
   <text x="115" y="80" text-anchor="middle" fill="black">Configuration Management</text>
