@@ -13,6 +13,10 @@ For many who only require an environment for running a few server-side applicati
 
 Amadla simplifies this process by automating the establishment of a basic environment suitable for personal use including all-sized businesses. It also helps by abstracting many aspects of setting up applications, servers, and cloud infrastructures.
 
+Here is a venn diagram: 
+
+![Amadla Venn Diagram](./assets/amadla-venn-diagram.svg)
+
 <h2>How?</h2>
 
 Using a custom storage methodology that merges [YAML](https://en.wikipedia.org/wiki/YAML), [JSON-Schema](https://json-schema.org/) and [Git](https://git-scm.com/), Amadla configurations will feel familiar to most and innovative at the same time. The name for this storage device is [HERY](https://github.com/AmadlaOrg/hery). In short, it is an extension to [YAML](https://en.wikipedia.org/wiki/YAML) by which [YAML](https://en.wikipedia.org/wiki/YAML) content is grouped into what is named entities. Each entity can refer to other entities. Making it similar to an RDBMS but with the content being in text given the benefit of CVS with [Git](https://git-scm.com/).

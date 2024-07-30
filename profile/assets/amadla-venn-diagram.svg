@@ -1,0 +1,22 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle for Configuration Management -->
+  <circle cx="200" cy="200" r="100" fill="rgba(255, 99, 71, 0.5)" />
+  <text x="115" y="80" text-anchor="middle" fill="black">Configuration Management</text>
+
+  <!-- Circle for IaC -->
+  <circle cx="300" cy="200" r="100" fill="rgba(30, 144, 255, 0.5)" />
+  <text x="360" y="80" text-anchor="middle" fill="black">Infrastructure as Code (IaC)</text>
+  <text x="345" y="170" text-anchor="middle" fill="black">Terraform</text>
+  <text x="345" y="190" text-anchor="middle" fill="black">AWS CF</text>
+  <text x="345" y="210" text-anchor="middle" fill="black">Azure RM</text>
+
+  <!-- Circle for Image Building -->
+  <circle cx="250" cy="300" r="100" fill="rgba(60, 179, 113, 0.5)" />
+  <text x="250" y="430" text-anchor="middle" fill="black">Image Building</text>
+  <text x="250" y="360" text-anchor="middle" fill="black">Packer</text>
+
+  <!-- Overlapping areas -->
+  <text x="250" y="250" text-anchor="middle" fill="black">Amadla</text>
+  <text x="192" y="280" text-anchor="middle" fill="black">Vagrant</text>
+  <text x="250" y="175" text-anchor="middle" fill="black">Ansible</text>
+</svg>
