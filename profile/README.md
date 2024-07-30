@@ -15,7 +15,11 @@ Amadla simplifies this process by automating the establishment of a basic enviro
 
 Here is a venn diagram: 
 
+<p align="center">
+
 ![Amadla Venn Diagram](./assets/amadla-venn-diagram.svg)
+
+</p>
 
 <h2>How?</h2>
 
