@@ -3,7 +3,9 @@
 </p>
 
 <h2>About</h2>
+
 The previous decade has seen a surge in tools designed to simplify the provisioning of cloud infrastructures, and on-premise and dedicated servers. While this development is positive, assembling and configuring these tools remains challenging. This task is time-intensive, plus requires substantial expertise in cloud systems, Infrastructure as Code (IaC), Linux, cybersecurity, etc.
+
 
 Many applications are far from their promise of abstraction whereby many of system-specific configurations need to be utilized instead of more neutral and generic settings.
 
@@ -12,6 +14,7 @@ For many who only require an environment for running a few server-side applicati
 Amadla simplifies this process by automating the establishment of a basic environment suitable for personal use including all-sized businesses. It also helps by abstracting many aspects of setting up applications, servers, and cloud infrastructures.
 
 <h2>How?</h2>
+
 Using a custom storage methodology that merges [YAML](https://en.wikipedia.org/wiki/YAML), [JSON-Schema](https://json-schema.org/) and [Git](https://git-scm.com/), Amadla configurations will feel familiar to most and innovative at the same time. The name for this storage device is [HERY](https://github.com/AmadlaOrg/hery). In short, it is an extension to [YAML](https://en.wikipedia.org/wiki/YAML) by which [YAML](https://en.wikipedia.org/wiki/YAML) content is grouped into what is named entities. Each entity can refer to other entities. Making it similar to an RDBMS but with the content being in text given the benefit of CVS with [Git](https://git-scm.com/).
 
 It also comes with a caching system based on [SQLite](https://www.sqlite.org/) that permits quick querying of the configuration content.
