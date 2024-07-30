@@ -1,12 +1,12 @@
 <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-  <rect width="100%" height="100%" fill="white" />
+  <rect width="100%" height="100%" fill="white" /> 
   <!-- Circle for Configuration Management -->
   <circle cx="200" cy="200" r="100" fill="rgba(255, 99, 71, 0.5)" />
-  <text x="115" y="80" text-anchor="middle" fill="black">Configuration Management</text>
+  <text x="125" y="80" text-anchor="middle" fill="black">Configuration Management</text>
 
   <!-- Circle for IaC -->
   <circle cx="300" cy="200" r="100" fill="rgba(30, 144, 255, 0.5)" />
-  <text x="360" y="80" text-anchor="middle" fill="black">Infrastructure as Code (IaC)</text>
+  <text x="370" y="80" text-anchor="middle" fill="black">Infrastructure as Code (IaC)</text>
   <text x="345" y="170" text-anchor="middle" fill="black">Terraform</text>
   <text x="345" y="190" text-anchor="middle" fill="black">AWS CF</text>
   <text x="345" y="210" text-anchor="middle" fill="black">Azure RM</text>
