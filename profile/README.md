@@ -6,22 +6,15 @@
 
 :warning: :construction: **Still in the works** :construction: :warning:
 
-The previous decade has seen a surge in tools designed to simplify the provisioning of cloud infrastructures, and on-premise and dedicated servers. While this development is positive, assembling and configuring these tools remains challenging. This task is time-intensive, plus requires substantial expertise in cloud systems, Infrastructure as Code (IaC), Linux, cybersecurity, etc.
+In the last decade, there has been a surge in tools designed to simplify the provisioning of cloud infrastructures, on-premise, and dedicated servers. While these tools offer significant benefits, setting them up and configuring them can be challenging, requiring considerable expertise in cloud systems, Infrastructure as Code (IaC), Linux, cybersecurity, and more. Many of these tools fall short of fully abstracting system-specific configurations, often necessitating detailed and complex setups.
 
-
-Many applications are far from their promise of abstraction whereby many of system-specific configurations need to be utilized instead of more neutral and generic settings.
-
-For many who only require an environment for running a few server-side applications like a VPN, blogs, email servers, and file managers, adhering to best practices and ensuring security can be daunting and time-consuming.
-
-Amadla simplifies this process by automating the establishment of a basic environment suitable for personal use including all-sized businesses. It also helps by abstracting many aspects of setting up applications, servers, and cloud infrastructures.
-
-Here is a venn diagram: 
+For users who only need an environment to run a few server-side applications—like a VPN, blogs, email servers, or file managers—maintaining best practices and ensuring security can be daunting and time-consuming. Amadla aims to streamline this process by automating the setup of a basic environment suitable for personal use and businesses of all sizes. It simplifies the configuration of applications, servers, and cloud infrastructures by providing a solid abstraction layer.
 
 <p align="center">
 <img src="./assets/amadla-venn-diagram.svg" alt="Amadla Venn Diagram"/>
 </p>
 
-<h2>How?</h2>
+<h2>How Amadla Works?</h2>
 
 Using a custom storage methodology that merges [YAML](https://en.wikipedia.org/wiki/YAML), [JSON-Schema](https://json-schema.org/) and [Git](https://git-scm.com/), Amadla configurations will feel familiar to most and innovative at the same time. The name for this storage device is [HERY](https://github.com/AmadlaOrg/hery). In short, it is an extension to [YAML](https://en.wikipedia.org/wiki/YAML) by which [YAML](https://en.wikipedia.org/wiki/YAML) content is grouped into what is named entities. Each entity can refer to other entities. Making it similar to an RDBMS but with the content being in text given the benefit of CVS with [Git](https://git-scm.com/).
 
