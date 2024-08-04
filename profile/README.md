@@ -16,15 +16,11 @@ For users who only need an environment to run a few server-side applications—l
 
 <h2>How Amadla Works?</h2>
 
-Using a custom storage methodology that merges [YAML](https://en.wikipedia.org/wiki/YAML), [JSON-Schema](https://json-schema.org/) and [Git](https://git-scm.com/), Amadla configurations will feel familiar to most and innovative at the same time. The name for this storage device is [HERY](https://github.com/AmadlaOrg/hery). In short, it is an extension to [YAML](https://en.wikipedia.org/wiki/YAML) by which [YAML](https://en.wikipedia.org/wiki/YAML) content is grouped into what is named entities. Each entity can refer to other entities. Making it similar to an RDBMS but with the content being in text given the benefit of CVS with [Git](https://git-scm.com/).
+Amadla uses a custom storage methodology called [HERY](https://github.com/AmadlaOrg/hery), which combines [YAML](https://en.wikipedia.org/wiki/YAML), [JSON-Schema](https://json-schema.org/), and [Git](https://git-scm.com/). This methodology provides a familiar yet innovative approach to configuration management. [HERY](https://github.com/AmadlaOrg/hery) extends [YAML](https://en.wikipedia.org/wiki/YAML) by grouping content into entities, similar to how an RDBMS (Relational Database Management System) organizes data. These entities can refer to other entities, with all content stored in text form, benefiting from [Git](https://git-scm.com/)'s version control capabilities.
 
-It also comes with a caching system based on [SQLite](https://www.sqlite.org/) that permits quick querying of the configuration content.
+The system also includes a caching layer based on [SQLite](https://www.sqlite.org/), enabling fast queries of configuration content. The [Amadla CLI](https://github.com/AmadlaOrg/amadla-cli) (Command Line Interface) queries [HERY](https://github.com/AmadlaOrg/hery) configurations and uses [Jinja2](https://jinja.palletsprojects.com/) templates to generate configuration files.
 
-From [HERY](https://github.com/AmadlaOrg/hery) [Amadla-cli](https://github.com/AmadlaOrg/amadla-cli) queries for the configurations and then using [Jinja2](https://jinja.palletsprojects.com/) populates configuration templates.
-
-Each of these entities is a block of configuration standards that are mutable. Entities can be invented by anyone for any purpose. The ones created by Amadla can be used or just ignored. There are no obligations. However, using a predefined entity offers a better integration with other tools and templates. Each entity informs different parts of a service and infrastructure or multiple parts. For example, the `Net` entity that can be attached to an application can indicate to the HTTP server the networking requirements of a website and also inform the firewall configurations about what ports to keep open for said website requirements. These configurations are also merged in a cascading way so an entity can overwrite the default configurations of the previous layered entity.
-
-> This is an abstract explanation. Later examples will be provided.
+Each entity represents a block of mutable configuration standards. Users can create their own entities for any purpose or use the predefined ones provided by Amadla. Predefined entities ensure better integration with other tools and templates. For example, a "Net" entity attached to an application can specify the networking requirements for a website, inform the HTTP server, and configure the firewall to open the necessary ports. Configurations can be overridden in a cascading manner, allowing for flexible and hierarchical setups.
 
 <!--<h2>Main Projects</h2>
 
