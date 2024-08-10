@@ -22,4 +22,5 @@
   <text x="250" y="152" text-anchor="middle" fill="black">Salt</text>
   <text x="250" y="171" text-anchor="middle" fill="black">Puppet</text>
   <text x="250" y="192" text-anchor="middle" fill="black">Ansible</text>
+  <text x="160" y="188" text-anchor="middle" fill="black">HERY</text>
 </svg>
