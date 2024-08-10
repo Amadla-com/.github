@@ -1,5 +1,5 @@
 <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-  <rect width="100%" height="100%" fill="white" /> 
+  <rect width="100%" height="100%" fill="white" />
   <!-- Circle for Configuration Management -->
   <circle cx="200" cy="200" r="100" fill="rgba(255, 99, 71, 0.5)" />
   <text x="125" y="80" text-anchor="middle" fill="black">Configuration Management</text>
@@ -19,5 +19,7 @@
   <!-- Overlapping areas -->
   <text x="250" y="250" text-anchor="middle" fill="black">Amadla</text>
   <text x="192" y="280" text-anchor="middle" fill="black">Vagrant</text>
-  <text x="250" y="175" text-anchor="middle" fill="black">Ansible</text>
+  <text x="250" y="155" text-anchor="middle" fill="black">Salt</text>
+  <text x="250" y="174" text-anchor="middle" fill="black">Puppet</text>
+  <text x="250" y="195" text-anchor="middle" fill="black">Ansible</text>
 </svg>
