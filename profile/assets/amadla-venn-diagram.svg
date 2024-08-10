@@ -17,9 +17,9 @@
   <text x="250" y="360" text-anchor="middle" fill="black">Packer</text>
 
   <!-- Overlapping areas -->
-  <text x="250" y="250" text-anchor="middle" fill="black">Amadla</text>
+  <text x="250" y="238" text-anchor="middle" fill="black">Amadla</text>
   <text x="192" y="280" text-anchor="middle" fill="black">Vagrant</text>
-  <text x="250" y="155" text-anchor="middle" fill="black">Salt</text>
-  <text x="250" y="174" text-anchor="middle" fill="black">Puppet</text>
-  <text x="250" y="195" text-anchor="middle" fill="black">Ansible</text>
+  <text x="250" y="152" text-anchor="middle" fill="black">Salt</text>
+  <text x="250" y="171" text-anchor="middle" fill="black">Puppet</text>
+  <text x="250" y="192" text-anchor="middle" fill="black">Ansible</text>
 </svg>
